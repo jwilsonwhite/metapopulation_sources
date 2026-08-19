@@ -10,4 +10,4 @@ The main file is run_source_models.m, which calls all of the necessary files to 
 
 The directories NCSR and SCSR contain the input files needed for the North and South study regions, respectively.
 
-At this time, the SCSR is missing the connectivity matrix files because of file storage issues on Git.
+
